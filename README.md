@@ -1,0 +1,1 @@
+This is Chelsea's first Git project!
